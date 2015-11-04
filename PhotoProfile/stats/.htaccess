@@ -1,0 +1,6 @@
+Options +Indexes
+AuthType Basic
+AuthName "photographerprofile.com Statistics"
+AuthUserFile /var/chroot/home/content/28/10874428/html/stats/.statspwd
+Require valid-user
+DirectoryIndex index.html
